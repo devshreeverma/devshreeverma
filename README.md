@@ -66,6 +66,6 @@ Travel Booking Website
 ## 🌐 Connect with Me
 
 - 💼 **LinkedIn:** [Devshree Verma](linkedin.com/in/devshree-verma-b89861287)
-- 📧 **Email:** [devshree@example.com](mailto:devshreeverma48@gmail.com)
-- 💻 **GitHub:** [devxshree](https://github.com/devshreeverma/)
-- 🧩 **LeetCode:** [devxshree](https://leetcode.com/u/devxshree/)
+- 📧 **Email:** [devshreeverma48@gmail.com](mailto:devshreeverma48@gmail.com)
+- 💻 **GitHub:** [devshreeverma](https://github.com/devshreeverma/)
+- 🧩 **LeetCode:** [devxshree](https://leetcode.com/u/devshreev/)
