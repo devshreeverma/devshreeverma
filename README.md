@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Coding Journey
 
-[LeetCode Profile](https://leetcode.com/u/devxshree/)
+[LeetCode Profile](https://leetcode.com/u/Devshreev/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/devxshree?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Devshreev?theme=dark&font=Karma)
 
 ## 🚀 Featured Projects
 
