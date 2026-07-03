@@ -24,13 +24,6 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devshreeverma&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshreeverma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
