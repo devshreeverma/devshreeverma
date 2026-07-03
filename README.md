@@ -26,9 +26,16 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devshreeverma&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshreeverma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devxshree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🚀 Coding Journey
 
