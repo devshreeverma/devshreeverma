@@ -30,15 +30,15 @@
 - 🎯 Currently preparing for **SDE Interviews**
 - 
 <p align="center">
-  <a href="https://leetcode.com/your_username">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/Devshreev">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <img src="https://img.shields.io/badge/C++-Primary%20Language-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/DSA-Active%20Learner-success?style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Devshreev?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ## 🚀 Featured Projects
