@@ -44,24 +44,42 @@
 ## 🚀 Featured Projects
 
 ### ⚡ Multithreaded Download Manager
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-blue?style=flat-square)
-![Threads](https://img.shields.io/badge/Multithreading-orange?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-FF6F00?style=flat-square)
+![File I/O](https://img.shields.io/badge/File_I/O-4CAF50?style=flat-square)
 
 ### 💰 AI KMAT Pricing Engine
-Snowflake + Streamlit + Gemini AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 
 ### 🧠 Parkinson's Disease Detection
-CNN + LSTM + Ensemble Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-6A1B9A?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-43A047?style=flat-square)
+![Ensemble](https://img.shields.io/badge/Ensemble_Learning-1976D2?style=flat-square)
 
 ### 🎤 Voice Attendance System
-Python + Librosa + Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF9800?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-009688?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### 🤖 AI Financial Advisor
-Hackathon Project
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+![Finance](https://img.shields.io/badge/Finance-2E7D32?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-8E24AA?style=flat-square)
 
 ### 🌍 TripCraft
-Travel Booking Website
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 🌐 Connect with Me
 
