@@ -8,7 +8,13 @@
 
 ## 💻 Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,nodejs,express,mysql,git,github,tensorflow,opencv&perline=7"/> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,nodejs,express,html,css,mysql,git,github&perline=13" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,tensorflow,pytorch,opencv&perline=13" />
+</p>
 
 ## 🔥 GitHub Streak
 
