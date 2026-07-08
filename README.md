@@ -44,7 +44,9 @@
 ## 🚀 Featured Projects
 
 ### ⚡ Multithreaded Download Manager
-C++ + STL + Multithreading + File I/O + Networking
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-blue?style=flat-square)
+![Threads](https://img.shields.io/badge/Multithreading-orange?style=flat-square)
 
 ### 💰 AI KMAT Pricing Engine
 Snowflake + Streamlit + Gemini AI
