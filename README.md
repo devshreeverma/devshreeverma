@@ -19,10 +19,10 @@
 ## 🚀 Coding Journey
 
 - 💯 Solved **200+ LeetCode Problems**
-- 🔥 Strong in **Binary Search, Trees, Graphs, STL, Dynamic Programming**
+- 🔥 Strong in **Dynamic Programming, Binary Search, Trees, Graphs, STL, Arrays, LinkedList**
 - 💻 Primary Language: **C++17**
 - 🎯 Currently preparing for **SDE Interviews**
-- 
+  
 <p align="center">
   <a href="https://leetcode.com/Devshreev">
     <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
