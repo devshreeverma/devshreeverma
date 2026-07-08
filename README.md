@@ -16,17 +16,6 @@
   <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,tensorflow,pytorch,opencv&perline=13" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devshreeverma&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshreeverma&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
 ## 🚀 Coding Journey
 
 - 💯 Solved **200+ LeetCode Problems**
