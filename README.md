@@ -24,9 +24,22 @@
 
 ## 🚀 Coding Journey
 
-[LeetCode Profile](https://leetcode.com/u/Devshreev/)
+- 💯 Solved **200+ LeetCode Problems**
+- 🔥 Strong in **Binary Search, Trees, Graphs, STL, Dynamic Programming**
+- 💻 Primary Language: **C++17**
+- 🎯 Currently preparing for **SDE Interviews**
+- 
+<p align="center">
+  <a href="https://leetcode.com/your_username">
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <img src="https://img.shields.io/badge/C++-Primary%20Language-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/DSA-Active%20Learner-success?style=for-the-badge"/>
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Devshreev?theme=dark&font=Karma)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
 
 ## 🚀 Featured Projects
 
